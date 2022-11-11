@@ -1,7 +1,8 @@
 export const projects1 = [
   {
     title: 'MERN Chat-App',
-    description:"This is full Realtime chat application  where users can interact  with each other."<br>"Also there are various rooms available as general, tech , finance and crypto",
+    description:"This is full Realtime chat application  where users can interact  with each other."
+    "Also there are various rooms available as general, tech , finance and crypto",
     image: '/images/2.png',
     tags: ['Mongo', 'Express', 'React', 'Node', 'socket.io', 'JavaScript'],
     frontend: 'https://github.com/parveen11498/mern-chat-frontend',
