@@ -12,7 +12,7 @@ export const projects1 = [
   },
   {
     title: 'Blog App',
-    description: "In this blog app you can creae your own blog, update and delete the blog and view other users blogs."
+    description: "In this blog app you can creae your own blog, update and delete the blog and view other users blogs.",
     " A part from this you can even update your profile including username, email, password  ",
     image: '/images/4.png',
     tags: ['React', 'Mongodb', 'NODEJS', 'EXPRESS'],
