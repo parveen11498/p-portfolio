@@ -101,22 +101,19 @@ const Contact = () => {
           </div>
           <div className="w-full flex flex-col md:items-end  mt-12 md:mt-6">
             {/* <h1 className="text-3xl font-bold">Phone</h1>
-            <a
-              href="hello"
+            <p
               className="mb-12 mt-4 font-semibold text-blue-700 block uppercase"
             >
-              +91 8285631499
-            </a> */}
+             0000000000
+            </p> */}
             <h1 className="text-3xl font-bold">Email</h1>
-            <a
-              href="hello"
+            <p
               className="mb-12 mt-4 font-semibold text-blue-700 block uppercase"
             >
              parveen4900613@gmail.com
-            </a>
+            </p>
             <h1 className="text-3xl  font-bold">Address</h1>
-            <a
-              href="hello"
+            <p
               className="mt-4  mb-12 md:text-right font-semibold text-blue-700 block uppercase"
             >
                 Colva, Goa 
@@ -125,7 +122,7 @@ const Contact = () => {
               <br/>
               <br/>
               9527802175
-            </a>
+            </p>
             <h1 className="text-3xl  font-bold">Social</h1>
             <ul className="flex">
               {contactLinks.map((el) => (
