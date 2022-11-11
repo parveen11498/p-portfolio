@@ -37,7 +37,7 @@ const Card1 = () => {
               {p.description}
             </p>
 <br/>
-              <br/>
+              
             <div>
               <h6 style={{ textAlign: "center" }} class="mb-2 text-2xl font-bold textAlign-center text-gray-900 ">Stack</h6>
               <TagList>
