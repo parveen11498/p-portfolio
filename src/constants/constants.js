@@ -26,9 +26,9 @@ export const projects = [
     description: "The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives. The user can post delete update and search for particular memories and also they can like memories as well as comment to others memories.",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    frontend: 'https://github.com/parveen11498/fsd-memories',
+    frontend: 'https://github.com/parveen11498/memories-frontend',
     backend: 'https://github.com/parveen11498/memories-backend',
-    visit: 'https://mern-memories-two.vercel.app/',
+    visit: 'https://memories-frontend-cyuk.onrender.com',
     id: 0,
   },
   {
